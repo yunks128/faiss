@@ -32,3 +32,6 @@ faiss/python/swigfaiss_sve.swig
 # Python package build outputs
 /dist/
 /*.egg-info/
+.DS_Store
+CLAUDE.md
+.github/copilot-instructions.md
